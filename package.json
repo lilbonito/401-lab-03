@@ -1,0 +1,29 @@
+{
+  "name": "401-lab-03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint **/.js",
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilbonito/401-lab-03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilbonito/401-lab-03/issues"
+  },
+  "homepage": "https://github.com/lilbonito/401-lab-03#readme",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "faker": "^4.1.0",
+    "fs-extra": "^8.1.0"
+  }
+}
